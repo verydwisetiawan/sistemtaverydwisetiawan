@@ -1,0 +1,31 @@
+html {
+	font-size: 14px;
+}
+
+
+@media (min-width: 768px) {
+	html {
+		font-size: 16px;
+	}
+
+	.simpan {
+		width: 50%;
+
+	}
+}
+
+.container {
+	max-width: 960px;
+}
+
+.pricing-header {
+	max-width: 700px;
+}
+
+.card-deck .card {
+	min-width: 220px;
+}
+
+.box {
+	box-shadow: 0 0 20px -10px;
+}
